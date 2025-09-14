@@ -1,6 +1,6 @@
 import { Link } from "expo-router";
+import { View, Text, TouchableOpacity } from "react-native";
 import { styles } from "@/styles/_mainstyle";
-import { View } from "react-native";
 
 export default function Index() {
   return (
