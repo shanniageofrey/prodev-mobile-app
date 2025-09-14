@@ -7,7 +7,6 @@ import {
   TextInput,
   Image,
   ScrollView,
-  Dimensions,
   TouchableHighlight,
 } from "react-native";
 import { FILTERS, SAMPLE_DATA } from "@/constants/data";
